@@ -1256,3 +1256,6 @@ $lang['Advanced features'] = 'Advanced features';
 $lang['Global Gallery Actions'] = 'Global Gallery Actions';
 $lang['Purge Actions'] = 'Purge Actions';
 $lang['Purge Cache'] = 'Purge Cache';
+$lang['This photo is an orphan'] = 'This photo is an orphan';
+$lang['This albums is already in related categories list'] = 'This albums is already in related albums list';
+$lang['No search in progress'] = 'No search in progress';

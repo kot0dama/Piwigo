@@ -1258,3 +1258,6 @@ $lang['Advanced features'] = 'Fonctionnalités avancées';
 $lang['Global Gallery Actions'] = 'Actions sur la gallerie';
 $lang['Purge Actions'] = 'Actions de purge';
 $lang['Purge Cache'] = 'Purger le cache';
+$lang['This photo is an orphan'] = 'Cette photo est orpheline';
+$lang['This albums is already in related categories list'] = 'Cet album est déjà dans la liste des albums associés';
+$lang['No search in progress'] = 'Pas de recherche en cours';
